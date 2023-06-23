@@ -1,13 +1,17 @@
 # snake-game
-This project is my first game i coded. the nostalgic snake game.
 
 ## Installation
-Use the browser to open the game.
+Nothing to install
 
 ## Features
-1.HTML5
-2.CSS
-3.Javascript.
+simple snake game. use the arrows in your computer to move the snake. eat apples and grow longer.
+if you happen to hit a wall or eat yourself you lose.
+
+## coding
+-HTML.
+-CSS.
+-JavaScript.
+
 
 ## Copyright
 Rotem Fuks.
